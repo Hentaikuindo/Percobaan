@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.animaxtv.com/images/logo_animax.png" group-title="KIDS", ANIMAX ID 2
+http://45.126.83.51/dr9445/h/h18/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.animaxtv.com/images/logo_animax.png" group-title="KIDS", ANIMAX ID 3
+http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29667?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
+
+#EXTINF:-1 tvg-logo="https://www.animaxtv.com/images/logo_animax.png" group-title="KIDS", ANIMAX ID 4
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_aniplus_small1.png?v=2.0.0.11" group-title="KIDS", ANIPLUS ID 2
+http://45.126.83.51/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_aniplus_small1.png?v=2.0.0.11" group-title="KIDS", ANIPLUS ID 3
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_aniplus_small1.png?v=2.0.0.11" group-title="KIDS", NONSTOP ANIME
+http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
+
 #EXTINF:-1 tvg-logo="http://dens.tv/images/channel-logo_backup/13.jpg" group-title="LOCAL", NET
 http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
