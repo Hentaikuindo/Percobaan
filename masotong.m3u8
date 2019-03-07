@@ -33,6 +33,9 @@ http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZD70Q2J/mnctv.png" group-title="LOCAL", MNC TV 3
 https://cdn-livetv3.metube.id/hls/eplmnctv_480/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZD70Q2J/mnctv.png" group-title="LOCAL", MNC TV HD
+http://202.80.222.171/000001/2/ch14041511111714365733/1001.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT22006201902172054504456836&zte_bandwidth=1001&ztecid=ch14041511111714365733&bandwidth=1100904&ispcode=1&timeformat=local&channel=ch14041511111714365733&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwMDUvMTAyNC5tM3U4&type=.m3u8&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="LOCAL", INDOSIAR 
 http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
