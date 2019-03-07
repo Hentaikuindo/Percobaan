@@ -120,6 +120,198 @@ http://45.126.83.51/qwr9ew/s/s10/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6xWZTgY/zeebioskop.png" group-title="LOCAL", ZEE BIOSKOP 2
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", BERITA_SATU_HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", BERITA_SATU_WORLD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TVRI SPORT
+http://210.210.155.35/session/c2b1cc2c-7d85-11e8-916f-b82a72d63267/qwr9ew/s/s48/index1.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TVRI 3
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TVRI Kupang
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInttkupang)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TVRI Denpasar
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbali)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TVRI Jogja
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIyogyakarta)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TVRI Semarang
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TVRI Surabaya
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatimsurabaya)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TVRI Bandung
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TVRI Jakarta
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TVRI Aceh
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIaceh)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TVRI Medan
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumutmedan)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TVRI Padang
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumbarpadang)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TVRI Pekan Baru
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIriau)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TVRI Bengkulu
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbengkulu)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TVRI Belitung
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbabel)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TVRI Palembang
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TVRI Lampung
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIlampung)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TVRI Samarinda
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TVRI Makassar
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulselmakasar)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TVRI JAMBI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjambi)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TVRI JATENG SEMARANG
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TVRI KALSEL BANJARMASIN
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalselbanjarmsn)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TVRI KALTENG
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalteng)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TVRI SULSEL MAKASAR
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulselmakasar)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TVRI SULTENG PALU
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsultengpalu)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TVRI SULUT MANADO
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulutmanado)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", RUAI TV
+http://wowza58.indostreamserver.com:1935/ruaitv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", SBCTV JATIM
+http://wowza58.indostreamserver.com:1935/langoday/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", RADAR TV TASIKMALAYA
+http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", BMS TV
+http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", ADI TV YOGYAKARTA
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", Jakarta Globe news Channel TV
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", DANGDUT TV
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TV9 NUSANTARA
+http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", KITANESIA
+http://stream1.ninmedia.tv/live/xmedia-kitanesiatv.stream_nin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", IN HD
+https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TATA TV
+http://flash1.broadcastindo.net/tatv/live.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", DAII TV HD
+http://e1-hk-1.nim.mivo.tv/daaitv/daaitv2_all/skrz1j8exe/daaitv2_576p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", VOA TV
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", ASWAJA
+http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", MAKKAH TV
+http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", NADA MUSLIM TV
+http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", NU CHANNEL
+http://stream1.ninmedia.tv/live/xmedia-nuchannel.stream_nin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", BANTEN TV
+http://122.248.32.234:1935/ch22/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", REFORMED 21
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", (DOUBTFUL) RODJA TV
+http://rr2.dens.tv/s/s14/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", AHYAR TV
+http://stream.asianastream.com:1935/live/ngrp:akhyartv_all/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", RRI NET
+http://stream1.ninmedia.tv/live/xmedia-rrinet.stream_nin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", RUMAH TV
+http://stream2.ninmedia.tv/live/xmedia-rumahtv.stream_nin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", SALING SAPA
+http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", (DOUBTFUL) SUNNAH NABAWIYAH
+http://rr2.dens.tv/s/s27/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TABALONG TV
+http://stream1.ninmedia.tv/live/xmedia-tabalongtv.stream_nin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TAHFIDZ TV
+http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", CAHAYA BANTEN
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", JEMBER1 TV
+http://wowza60.indostreamserver.com:1935/jember1tv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", J'GO TV
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", BBS TV
+http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", BMW TV
+http://stream1.ninmedia.tv/live/xmedia-bmwtv.stream_nin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", HIDUP TV
+http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/17F4PQN/bbstv.png" group-title="LOKAL DAERAH", BBS TV
+http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://d2zkrhcchwordv.cloudfront.net/assets/img/fb-hbo-480x320.jpg" group-title="MOVIES", HBO HD
 http://27.254.211.55:9981/stream/channelid/1637231993
 
