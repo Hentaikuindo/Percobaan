@@ -48,6 +48,21 @@ http://id2.indostreamingtv.com:80/live/tv66/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/B6ZFwp58/sctv.png" group-title="LOCAL", SCTV 
 http://202.80.222.130/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6ZFwp58/sctv.png" group-title="LOCAL", SCTV HD
+http://id2.indostreamingtv.com/live/tv2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://eagle.industry.co.id/uploads/berita/detail/1103.png" group-title="LOCAL", THE INDONESIA CHANNEL
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tolololpedia/images/f/f7/Jtv.png" group-title="LOCAL", JTV SURABAYA
+http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_balitv_big1.png" group-title="LOCAL", Bali TV
+http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_rtv_big1.png" group-title="LOCAL", RTV
+http://210.210.155.35/session/7a9be4ec-f443-11e8-a629-b82a72d63267/qwr9ew/s/s12/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyWXD5DD/antv.png" group-title="LOCAL", ANTV 
 http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
