@@ -264,7 +264,7 @@ http://122.248.32.234:1935/ch22/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", REFORMED 21
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", (DOUBTFUL) RODJA TV
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", RODJA TV
 http://rr2.dens.tv/s/s14/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", AHYAR TV
@@ -282,7 +282,7 @@ http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", (DOUBTFUL) SUNNAH NABAWIYAH
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", SUNNAH NABAWIYAH
 http://rr2.dens.tv/s/s27/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH", TABALONG TV
