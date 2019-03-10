@@ -39,6 +39,9 @@ http://202.80.222.171/000001/2/ch14041511111714365733/1001.m3u8?virtualDomain=00
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="LOCAL", INDOSIAR 
 http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="LOCAL", INDOSIAR 2
+https://tvbersama.rumahstreaming.stream/indosiar/lives/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDE5IDc6NTM6MjEgQU0maGFzaF92YWx1ZT14U01iZExkOFR3R0dxRUhtYldScTBRPT0mdmFsaWRtaW51dGVzPTQ1JmlkPTc=
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/0/0c/20170614105730%21RCTI_tegak.png" group-title="LOCAL", RCTI
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
@@ -459,6 +462,9 @@ http://45.126.83.51/dr9445/h/h18/01.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_aniplus_small1.png?v=2.0.0.11" group-title="KIDS",  ANIPLUS ID
 http://45.126.83.51/dr9445/h/h02/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_aniplus_small1.png?v=2.0.0.11" group-title="KIDS",  ANIPLUS ID 2
+http://210.210.155.35/dr9445/h/h02/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://93.159.131.123/gabi/insert/img/programy/disneyjunior.png" group-title="KIDS",  DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
@@ -848,6 +854,9 @@ http://45.126.83.51/qwr9ew/s/s28/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="DENS TV",  MADINAH TV
 http://45.126.83.51/qwr9ew/s/s27/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Hentaikuindo/Percobaan/master/sport.png" group-title="SPORT",  FIGHT SPORT
+http://45.126.83.51/uq2663/h/h05/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="SPORT",  FIGHT SPORT
 http://45.126.83.51/uq2663/h/h05/index2.m3u8
