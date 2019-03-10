@@ -9,13 +9,19 @@ http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29667?token=GkQJUB
 #EXTINF:-1 tvg-logo="https://www.animaxtv.com/images/logo_animax.png" group-title="KIDS", ANIMAX ID 4
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.animaxtv.com/images/logo_animax.png" group-title="KIDS", ANIMAX ID MB13
+http://45.126.83.51/dr9445/h/h18/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_aniplus_small1.png?v=2.0.0.11" group-title="KIDS", ANIPLUS ID 2
 http://45.126.83.51/dr9445/h/h02/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_aniplus_small1.png?v=2.0.0.11" group-title="KIDS", ANIPLUS ID 3
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_aniplus_small1.png?v=2.0.0.11" group-title="KIDS", NONSTOP ANIME
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_aniplus_small1.png?v=2.0.0.11" group-title="KIDS",  ANIPLUS ID MB13
+http://210.210.155.35/dr9445/h/h02/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo__small1.png?v=2.0.0.11" group-title="KIDS", NONSTOP ANIME
 http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
 
 #EXTINF:-1 tvg-logo="http://dens.tv/images/channel-logo_backup/13.jpg" group-title="LOCAL", NET
@@ -23,6 +29,12 @@ http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=0
 
 #EXTINF:-1 tvg-logo="http://dens.tv/images/channel-logo_backup/13.jpg" group-title="LOCAL", NET HD
 http://boosstalive1-a.akamaihd.net:80/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOCAL", Sinema Indonesia
+http://rr3.dens.tv/s/s71/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="MOVIES", Sinema Indonesia
+http://rr3.dens.tv/s/s71/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZD70Q2J/mnctv.png" group-title="LOCAL", MNC TV 
 http://210.210.155.35:80/session/8d6f8e1c-39b1-11e9-a48a-854ca8bf101b/qwr9ew/s/s06/20190206T100142-01-18025605.ts
@@ -461,9 +473,6 @@ http://45.126.83.51/dr9445/h/h18/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_aniplus_small1.png?v=2.0.0.11" group-title="KIDS",  ANIPLUS ID
 http://45.126.83.51/dr9445/h/h02/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_aniplus_small1.png?v=2.0.0.11" group-title="KIDS",  ANIPLUS ID 2
-http://210.210.155.35/dr9445/h/h02/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://93.159.131.123/gabi/insert/img/programy/disneyjunior.png" group-title="KIDS",  DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
