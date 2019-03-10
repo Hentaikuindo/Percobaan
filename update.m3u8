@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png", Dolby Test
+https://r1---sn-2uuxa3vh-n0cl.googlevideo.com/videoplayback?expire=1552261279&sparams=dur%2Cei%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&requiressl=yes&ratebypass=yes&txp=5531432&key=yt6&signature=545F373B183DB3DB23CE1FF8BDF87DB15FEB65D4.CA47616B50370C4F34EE519E20278E90D6E0643F&c=WEB&mt=1552239566&id=o-AGD1BHkFTCvY2o6Gb-6BN6ncm3byKvRJ5wuxJBWgRTiL&mm=31%2C29&mn=sn-2uuxa3vh-n0cl%2Csn-npoeener&mime=video%2Fmp4&initcwndbps=381250&source=youtube&dur=104.652&pl=21&itag=22&ip=180.247.191.232&lmt=1540300146387218&ei=P0yFXPXxAuzEz7sPudCxEA&ms=au%2Crdu&fvip=1&ipbits=0&mv=m
+
 #EXTINF:-1 tvg-logo="https://www.animaxtv.com/images/logo_animax.png" group-title="KIDS", ANIMAX ID 2
 http://45.126.83.51/dr9445/h/h18/01.m3u8
 
